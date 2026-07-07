@@ -151,6 +151,11 @@ Tenho experiência na construção de dashboards executivos utilizando Power BI,
 
 Este projeto faz parte do meu portfólio profissional e representa minha evolução contínua na área de Business Intelligence e Analytics.
 
+📬 Contato
+💼 LinkedIn: [https://linkedin....](https://www.linkedin.com/in/sabrinaleitedesa/)
+💻 GitHub: https://github.com/sabbrinaa-cloud
+
+
 ### Tecnologias
 
 `Power BI` • `DAX` • `Power Query` • `SQL` • `Python` • `Excel`
@@ -160,3 +165,4 @@ Este projeto faz parte do meu portfólio profissional e representa minha evoluç
 ⭐ Se este projeto foi útil ou interessante, considere deixar uma **Star** no repositório.
 
 Obrigado pela visita!
+
