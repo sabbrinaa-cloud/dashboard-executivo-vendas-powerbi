@@ -1,0 +1,101 @@
+ID_Pedido,Data_Pedido,Vendedor,Categoria,Produto,Unidades_Vendidas,Preco_Unitario,Custo_Unitario,Pais,Cidade
+1,2024-01-15,Ana Silva,Eletrônicos,Smartphone,5,800,650,Brasil,São Paulo
+2,2024-01-16,Carlos Souza,Móveis,Cadeira de Escritório,2,150,100,Brasil,Rio de Janeiro
+3,2024-01-17,Beatriz Lima,Eletrônicos,Laptop,3,1200,950,Brasil,São Paulo
+4,2024-01-18,Ricardo Mendes,Roupas,Camiseta,10,25,15,Portugal,Lisboa
+5,2024-01-20,Juliana Alves,Móveis,Mesa de Jantar,1,400,300,Brasil,Belo Horizonte
+6,2024-02-05,Marcos Rocha,Eletrônicos,Fone de Ouvido,8,50,30,Portugal,Porto
+7,2024-02-06,Fernanda Costa,Roupas,Calça Jeans,6,70,50,Brasil,Curitiba
+8,2024-02-08,Lucas Martins,Eletrônicos,Smartwatch,4,250,200,Brasil,São Paulo
+9,2024-02-10,Ana Silva,Móveis,Sofá,1,600,450,Portugal,Lisboa
+10,2024-02-12,Carlos Souza,Roupas,Jaqueta,3,120,90,Brasil,Rio de Janeiro
+11,2024-03-01,Beatriz Lima,Eletrônicos,Smartphone,7,810,650,Brasil,Salvador
+12,2024-03-03,Ricardo Mendes,Móveis,Cadeira de Escritório,4,145,100,Portugal,Porto
+13,2024-03-05,Juliana Alves,Eletrônicos,Laptop,2,1250,950,Brasil,São Paulo
+14,2024-03-07,Marcos Rocha,Roupas,Camiseta,15,24,15,Brasil,Belo Horizonte
+15,2024-03-10,Fernanda Costa,Móveis,Mesa de Jantar,1,410,300,Portugal,Lisboa
+16,2024-04-02,Lucas Martins,Eletrônicos,Fone de Ouvido,10,55,30,Brasil,Curitiba
+17,2024-04-04,Ana Silva,Roupas,Calça Jeans,8,75,50,Brasil,São Paulo
+18,2024-04-06,Carlos Souza,Eletrônicos,Smartwatch,5,260,200,Portugal,Porto
+19,2024-04-09,Beatriz Lima,Móveis,Sofá,2,620,450,Brasil,Rio de Janeiro
+20,2024-04-11,Ricardo Mendes,Roupas,Jaqueta,4,125,90,Brasil,Salvador
+21,2024-05-01,Juliana Alves,Eletrônicos,Smartphone,6,800,650,Portugal,Lisboa
+22,2024-05-03,Marcos Rocha,Móveis,Cadeira de Escritório,3,150,100,Brasil,São Paulo
+23,2024-05-05,Fernanda Costa,Eletrônicos,Laptop,4,1200,950,Brasil,Belo Horizonte
+24,2024-05-08,Lucas Martins,Roupas,Camiseta,12,25,15,Portugal,Porto
+25,2024-05-10,Ana Silva,Móveis,Mesa de Jantar,1,400,300,Brasil,Curitiba
+26,2024-06-02,Carlos Souza,Eletrônicos,Fone de Ouvido,9,50,30,Brasil,São Paulo
+27,2024-06-04,Beatriz Lima,Roupas,Calça Jeans,7,70,50,Portugal,Lisboa
+28,2024-06-07,Ricardo Mendes,Eletrônicos,Smartwatch,3,250,200,Brasil,Rio de Janeiro
+29,2024-06-09,Juliana Alves,Móveis,Sofá,1,600,450,Brasil,Salvador
+30,2024-06-12,Marcos Rocha,Roupas,Jaqueta,2,120,90,Portugal,Porto
+31,2024-01-18,Fernanda Costa,Eletrônicos,Monitor,4,300,220,Brasil,São Paulo
+32,2024-01-20,Lucas Martins,Móveis,Estante,2,200,150,Brasil,Rio de Janeiro
+33,2024-01-22,Ana Silva,Eletrônicos,Teclado,10,80,50,Portugal,Lisboa
+34,2024-01-25,Carlos Souza,Roupas,Moletom,5,90,60,Brasil,Belo Horizonte
+35,2024-02-15,Beatriz Lima,Móveis,Poltrona,1,350,280,Portugal,Porto
+36,2024-02-18,Ricardo Mendes,Eletrônicos,Mouse,12,20,10,Brasil,Curitiba
+37,2024-02-20,Juliana Alves,Roupas,Bermuda,8,40,25,Brasil,São Paulo
+38,2024-02-22,Marcos Rocha,Eletrônicos,Webcam,6,60,40,Portugal,Lisboa
+39,2024-03-12,Fernanda Costa,Móveis,Armário,1,500,380,Brasil,Rio de Janeiro
+40,2024-03-15,Lucas Martins,Roupas,Vestido,4,150,110,Brasil,Salvador
+41,2024-03-18,Ana Silva,Eletrônicos,Monitor,3,310,220,Brasil,São Paulo
+42,2024-03-20,Carlos Souza,Móveis,Estante,2,210,150,Portugal,Porto
+43,2024-04-15,Beatriz Lima,Eletrônicos,Teclado,11,85,50,Brasil,Belo Horizonte
+44,2024-04-18,Ricardo Mendes,Roupas,Moletom,6,95,60,Brasil,Curitiba
+45,2024-04-20,Juliana Alves,Móveis,Poltrona,2,360,280,Portugal,Lisboa
+46,2024-04-22,Marcos Rocha,Eletrônicos,Mouse,15,22,10,Brasil,São Paulo
+47,2024-05-15,Fernanda Costa,Roupas,Bermuda,10,45,25,Brasil,Rio de Janeiro
+48,2024-05-18,Lucas Martins,Eletrônicos,Webcam,7,65,40,Portugal,Porto
+49,2024-05-20,Ana Silva,Móveis,Armário,1,520,380,Brasil,Salvador
+50,2024-05-22,Carlos Souza,Roupas,Vestido,5,155,110,Brasil,São Paulo
+51,2024-06-15,Beatriz Lima,Eletrônicos,Smartphone,4,820,650,Portugal,Lisboa
+52,2024-06-18,Ricardo Mendes,Móveis,Cadeira de Escritório,2,155,100,Brasil,Belo Horizonte
+53,2024-06-20,Juliana Alves,Eletrônicos,Laptop,3,1180,950,Brasil,Curitiba
+54,2024-06-22,Marcos Rocha,Roupas,Camiseta,20,26,15,Portugal,Porto
+55,2024-07-01,Fernanda Costa,Móveis,Mesa de Jantar,1,420,300,Brasil,São Paulo
+56,2024-07-03,Lucas Martins,Eletrônicos,Fone de Ouvido,12,52,30,Brasil,Rio de Janeiro
+57,2024-07-05,Ana Silva,Roupas,Calça Jeans,9,78,50,Portugal,Lisboa
+58,2024-07-08,Carlos Souza,Eletrônicos,Smartwatch,6,270,200,Brasil,Salvador
+59,2024-07-10,Beatriz Lima,Móveis,Sofá,1,630,450,Brasil,São Paulo
+60,2024-07-12,Ricardo Mendes,Roupas,Jaqueta,5,130,90,Portugal,Porto
+61,2024-01-28,Ana Silva,Eletrônicos,Tablet,4,450,380,Brasil,Recife
+62,2024-02-25,Carlos Souza,Móveis,Cama,1,700,550,Brasil,Fortaleza
+63,2024-03-25,Beatriz Lima,Eletrônicos,Impressora,2,200,160,Portugal,Coimbra
+64,2024-04-28,Ricardo Mendes,Roupas,Tênis,6,180,130,Brasil,Manaus
+65,2024-05-28,Juliana Alves,Móveis,Guarda-Roupa,1,900,700,Brasil,Brasília
+66,2024-06-28,Marcos Rocha,Eletrônicos,Caixa de Som,8,90,65,Portugal,Faro
+67,2024-07-15,Fernanda Costa,Roupas,Saia,10,60,40,Brasil,Porto Alegre
+68,2024-07-18,Lucas Martins,Eletrônicos,Tablet,3,460,380,Brasil,Recife
+69,2024-07-20,Ana Silva,Móveis,Cama,1,720,550,Portugal,Coimbra
+70,2024-07-22,Carlos Souza,Roupas,Tênis,5,185,130,Brasil,Fortaleza
+71,2024-08-01,Beatriz Lima,Eletrônicos,Impressora,3,210,160,Brasil,Manaus
+72,2024-08-03,Ricardo Mendes,Móveis,Guarda-Roupa,1,920,700,Portugal,Faro
+73,2024-08-05,Juliana Alves,Eletrônicos,Caixa de Som,7,95,65,Brasil,Brasília
+74,2024-08-08,Marcos Rocha,Roupas,Saia,12,65,40,Brasil,Porto Alegre
+75,2024-08-10,Fernanda Costa,Eletrônicos,Tablet,4,455,380,Portugal,Coimbra
+76,2024-08-12,Lucas Martins,Móveis,Cama,1,710,550,Brasil,Recife
+77,2024-08-15,Ana Silva,Roupas,Tênis,7,190,130,Brasil,Fortaleza
+78,2024-08-18,Carlos Souza,Eletrônicos,Impressora,2,205,160,Portugal,Faro
+79,2024-08-20,Beatriz Lima,Móveis,Guarda-Roupa,1,910,700,Brasil,Manaus
+80,2024-08-22,Ricardo Mendes,Eletrônicos,Caixa de Som,9,92,65,Brasil,Brasília
+81,2024-09-01,Juliana Alves,Roupas,Saia,11,62,40,Portugal,Coimbra
+82,2024-09-03,Marcos Rocha,Eletrônicos,Smartphone,5,830,650,Brasil,Porto Alegre
+83,2024-09-05,Fernanda Costa,Móveis,Cadeira de Escritório,3,160,100,Brasil,Recife
+84,2024-09-08,Lucas Martins,Eletrônicos,Laptop,2,1220,950,Portugal,Faro
+85,2024-09-10,Ana Silva,Roupas,Camiseta,25,27,15,Brasil,Fortaleza
+86,2024-09-12,Carlos Souza,Móveis,Mesa de Jantar,1,430,300,Brasil,Manaus
+87,2024-09-15,Beatriz Lima,Eletrônicos,Fone de Ouvido,15,58,30,Portugal,Coimbra
+88,2024-09-18,Ricardo Mendes,Roupas,Calça Jeans,10,80,50,Brasil,Brasília
+89,2024-09-20,Juliana Alves,Eletrônicos,Smartwatch,7,280,200,Brasil,Porto Alegre
+90,2024-09-22,Marcos Rocha,Móveis,Sofá,1,640,450,Portugal,Faro
+91,2024-10-01,Fernanda Costa,Roupas,Jaqueta,6,135,90,Brasil,Recife
+92,2024-10-03,Lucas Martins,Eletrônicos,Monitor,4,320,220,Brasil,Fortaleza
+93,2024-10-05,Ana Silva,Móveis,Estante,2,220,150,Portugal,Coimbra
+94,2024-10-08,Carlos Souza,Eletrônicos,Teclado,12,90,50,Brasil,Manaus
+95,2024-10-10,Beatriz Lima,Roupas,Moletom,8,100,60,Brasil,Brasília
+96,2024-10-12,Ricardo Mendes,Móveis,Poltrona,2,370,280,Portugal,Faro
+97,2024-10-15,Juliana Alves,Eletrônicos,Mouse,20,25,10,Brasil,Porto Alegre
+98,2024-10-18,Marcos Rocha,Roupas,Bermuda,15,50,25,Brasil,Recife
+99,2024-10-20,Fernanda Costa,Eletrônicos,Webcam,8,70,40,Portugal,Coimbra
+100,2024-10-22,Lucas Martins,Móveis,Armário,1,530,380,Brasil,Fortaleza
